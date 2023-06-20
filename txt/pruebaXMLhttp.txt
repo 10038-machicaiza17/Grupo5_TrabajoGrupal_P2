@@ -1,0 +1,2 @@
+Esta es una prueba de de que XML http funciona.<br>
+Saludos! :D
